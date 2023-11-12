@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.14793b08.css",
-    "main.js": "/static/js/main.f767ffd7.js",
-    "static/media/chippies.svg": "/static/media/chippies.146b77660816a4693ac4c52418f5a875.svg",
-    "static/media/sun.svg": "/static/media/sun.fd99e67b0c7f5cefef32f14ee1f0539e.svg",
-    "index.html": "/index.html",
-    "static/media/moon.svg": "/static/media/moon.c76d14460aea39005364a038f0dddd41.svg",
-    "main.14793b08.css.map": "/static/css/main.14793b08.css.map",
-    "main.f767ffd7.js.map": "/static/js/main.f767ffd7.js.map"
+    "main.css": "/chippies-portfolio/static/css/main.14793b08.css",
+    "main.js": "/chippies-portfolio/static/js/main.b51bf7a4.js",
+    "static/media/chippies.svg": "/chippies-portfolio/static/media/chippies.146b77660816a4693ac4c52418f5a875.svg",
+    "static/media/sun.svg": "/chippies-portfolio/static/media/sun.fd99e67b0c7f5cefef32f14ee1f0539e.svg",
+    "index.html": "/chippies-portfolio/index.html",
+    "static/media/moon.svg": "/chippies-portfolio/static/media/moon.c76d14460aea39005364a038f0dddd41.svg",
+    "main.14793b08.css.map": "/chippies-portfolio/static/css/main.14793b08.css.map",
+    "main.b51bf7a4.js.map": "/chippies-portfolio/static/js/main.b51bf7a4.js.map"
   },
   "entrypoints": [
     "static/css/main.14793b08.css",
-    "static/js/main.f767ffd7.js"
+    "static/js/main.b51bf7a4.js"
   ]
 }
