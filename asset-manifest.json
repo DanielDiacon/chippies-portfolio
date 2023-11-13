@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/chippies-portfolio/static/css/main.14793b08.css",
-    "main.js": "/chippies-portfolio/static/js/main.b51bf7a4.js",
-    "static/media/chippies.svg": "/chippies-portfolio/static/media/chippies.146b77660816a4693ac4c52418f5a875.svg",
-    "static/media/sun.svg": "/chippies-portfolio/static/media/sun.fd99e67b0c7f5cefef32f14ee1f0539e.svg",
+    "main.css": "/chippies-portfolio/static/css/main.eb3091c9.css",
+    "main.js": "/chippies-portfolio/static/js/main.7ac9c79e.js",
     "index.html": "/chippies-portfolio/index.html",
-    "static/media/moon.svg": "/chippies-portfolio/static/media/moon.c76d14460aea39005364a038f0dddd41.svg",
-    "main.14793b08.css.map": "/chippies-portfolio/static/css/main.14793b08.css.map",
-    "main.b51bf7a4.js.map": "/chippies-portfolio/static/js/main.b51bf7a4.js.map"
+    "static/media/chippies.svg": "/chippies-portfolio/static/media/chippies.b2f3f556789e7e99337ef84431304e0c.svg",
+    "static/media/images.svg": "/chippies-portfolio/static/media/images.5412e3739d395b2faab0bced9729146c.svg",
+    "static/media/sun.svg": "/chippies-portfolio/static/media/sun.8f29e287c1de41f10b6c93a43552311e.svg",
+    "static/media/contact.svg": "/chippies-portfolio/static/media/contact.9eee77f2aef0f4cd84ee9f32e196aa8a.svg",
+    "static/media/home-light.svg": "/chippies-portfolio/static/media/home-light.3a42df52acad344f95cff513ee8f35c9.svg",
+    "static/media/moon.svg": "/chippies-portfolio/static/media/moon.aa042d6e9e961187673e10408df7e4ed.svg",
+    "main.eb3091c9.css.map": "/chippies-portfolio/static/css/main.eb3091c9.css.map",
+    "main.7ac9c79e.js.map": "/chippies-portfolio/static/js/main.7ac9c79e.js.map"
   },
   "entrypoints": [
-    "static/css/main.14793b08.css",
-    "static/js/main.b51bf7a4.js"
+    "static/css/main.eb3091c9.css",
+    "static/js/main.7ac9c79e.js"
   ]
 }
