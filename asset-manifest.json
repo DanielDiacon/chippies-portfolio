@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chippies-portfolio/static/css/main.0a6ab71a.css",
-    "main.js": "/chippies-portfolio/static/js/main.fb3ed4d5.js",
+    "main.css": "/chippies-portfolio/static/css/main.4599394a.css",
+    "main.js": "/chippies-portfolio/static/js/main.a83ad81d.js",
     "static/media/deadPunk.webp": "/chippies-portfolio/static/media/deadPunk.eade3e129208f0bd0ba5.webp",
     "static/media/starBoy.webp": "/chippies-portfolio/static/media/starBoy.8a16c0b88e06206eb38d.webp",
     "static/media/cipi.jpg": "/chippies-portfolio/static/media/cipi.38033d69214bcb4a06e5.jpg",
@@ -22,13 +22,14 @@
     "static/media/chippies.svg": "/chippies-portfolio/static/media/chippies.b2f3f556789e7e99337ef84431304e0c.svg",
     "static/media/sun.svg": "/chippies-portfolio/static/media/sun.8f29e287c1de41f10b6c93a43552311e.svg",
     "static/media/moon.svg": "/chippies-portfolio/static/media/moon.aa042d6e9e961187673e10408df7e4ed.svg",
+    "static/media/close.svg": "/chippies-portfolio/static/media/close.2369b059f70102c72298c550672352af.svg",
     "static/media/images.svg": "/chippies-portfolio/static/media/images.9237f5bd27f44eb8a840c10c0cdf66a7.svg",
     "static/media/home-light.svg": "/chippies-portfolio/static/media/home-light.454545dd470abb5a533d8993a278e348.svg",
-    "main.0a6ab71a.css.map": "/chippies-portfolio/static/css/main.0a6ab71a.css.map",
-    "main.fb3ed4d5.js.map": "/chippies-portfolio/static/js/main.fb3ed4d5.js.map"
+    "main.4599394a.css.map": "/chippies-portfolio/static/css/main.4599394a.css.map",
+    "main.a83ad81d.js.map": "/chippies-portfolio/static/js/main.a83ad81d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a6ab71a.css",
-    "static/js/main.fb3ed4d5.js"
+    "static/css/main.4599394a.css",
+    "static/js/main.a83ad81d.js"
   ]
 }
