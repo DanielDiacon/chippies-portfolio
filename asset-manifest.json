@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chippies-portfolio/static/css/main.cfd61ae6.css",
-    "main.js": "/chippies-portfolio/static/js/main.a83ad81d.js",
+    "main.js": "/chippies-portfolio/static/js/main.db0d9919.js",
     "static/media/deadPunk.webp": "/chippies-portfolio/static/media/deadPunk.eade3e129208f0bd0ba5.webp",
     "static/media/starBoy.webp": "/chippies-portfolio/static/media/starBoy.8a16c0b88e06206eb38d.webp",
     "static/media/cipi.jpg": "/chippies-portfolio/static/media/cipi.38033d69214bcb4a06e5.jpg",
@@ -26,10 +26,10 @@
     "static/media/images.svg": "/chippies-portfolio/static/media/images.9237f5bd27f44eb8a840c10c0cdf66a7.svg",
     "static/media/home-light.svg": "/chippies-portfolio/static/media/home-light.454545dd470abb5a533d8993a278e348.svg",
     "main.cfd61ae6.css.map": "/chippies-portfolio/static/css/main.cfd61ae6.css.map",
-    "main.a83ad81d.js.map": "/chippies-portfolio/static/js/main.a83ad81d.js.map"
+    "main.db0d9919.js.map": "/chippies-portfolio/static/js/main.db0d9919.js.map"
   },
   "entrypoints": [
     "static/css/main.cfd61ae6.css",
-    "static/js/main.a83ad81d.js"
+    "static/js/main.db0d9919.js"
   ]
 }
