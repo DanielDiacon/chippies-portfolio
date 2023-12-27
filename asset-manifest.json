@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/chippies-portfolio/static/css/main.43fd7a5c.css",
-    "main.js": "/chippies-portfolio/static/js/main.af1ccbfc.js",
+    "main.css": "/chippies-portfolio/static/css/main.d050ca1f.css",
+    "main.js": "/chippies-portfolio/static/js/main.fce8d3a4.js",
     "static/media/deadPunk.webp": "/chippies-portfolio/static/media/deadPunk.eade3e129208f0bd0ba5.webp",
     "static/media/starBoy.webp": "/chippies-portfolio/static/media/starBoy.8a16c0b88e06206eb38d.webp",
+    "static/media/cretf1-2.webp": "/chippies-portfolio/static/media/cretf1-2.2652d57dcdcf959a21ec.webp",
     "static/media/cipi.jpg": "/chippies-portfolio/static/media/cipi.38033d69214bcb4a06e5.jpg",
     "static/media/sky.webp": "/chippies-portfolio/static/media/sky.54fd7fdbf1be89dbb82d.webp",
     "static/media/magazine.webp": "/chippies-portfolio/static/media/magazine.db30cfa0947557922de5.webp",
@@ -11,8 +12,13 @@
     "static/media/chippiesPoster.webp": "/chippies-portfolio/static/media/chippiesPoster.d03b3eca13f65f6c8f00.webp",
     "static/media/war.webp": "/chippies-portfolio/static/media/war.dc6278d9df74e8e350ca.webp",
     "static/media/flyer2.webp": "/chippies-portfolio/static/media/flyer2.01afa7861f7ebb87ee36.webp",
+    "static/media/cretf1-1.jpg": "/chippies-portfolio/static/media/cretf1-1.53501459cafd7b472ac0.jpg",
+    "static/media/cretf-adobe.webp": "/chippies-portfolio/static/media/cretf-adobe.bee5964877d295e7d040.webp",
+    "static/media/cretf1-1.webp": "/chippies-portfolio/static/media/cretf1-1.37a4cb5c9b0050603878.webp",
     "static/media/whereYouGoIGo.webp": "/chippies-portfolio/static/media/whereYouGoIGo.cc2b24c617a4b0a888db.webp",
     "static/media/idCardDesign.webp": "/chippies-portfolio/static/media/idCardDesign.b9ce6e55bc98b5e06b90.webp",
+    "static/media/cretf-adobe.jpg": "/chippies-portfolio/static/media/cretf-adobe.f028589531250eea70ba.jpg",
+    "static/media/cretf1-2.jpg": "/chippies-portfolio/static/media/cretf1-2.7cd56c892c46d650e313.jpg",
     "static/media/deadPunk.jpg": "/chippies-portfolio/static/media/deadPunk.e8e879c68d60e519d127.jpg",
     "static/media/magazine.jpg": "/chippies-portfolio/static/media/magazine.e10ffa5341e7aecaa63f.jpg",
     "static/media/sky.jpg": "/chippies-portfolio/static/media/sky.971c638f3a24bca46f72.jpg",
@@ -25,11 +31,11 @@
     "static/media/close.svg": "/chippies-portfolio/static/media/close.2369b059f70102c72298c550672352af.svg",
     "static/media/images.svg": "/chippies-portfolio/static/media/images.9237f5bd27f44eb8a840c10c0cdf66a7.svg",
     "static/media/home-light.svg": "/chippies-portfolio/static/media/home-light.454545dd470abb5a533d8993a278e348.svg",
-    "main.43fd7a5c.css.map": "/chippies-portfolio/static/css/main.43fd7a5c.css.map",
-    "main.af1ccbfc.js.map": "/chippies-portfolio/static/js/main.af1ccbfc.js.map"
+    "main.d050ca1f.css.map": "/chippies-portfolio/static/css/main.d050ca1f.css.map",
+    "main.fce8d3a4.js.map": "/chippies-portfolio/static/js/main.fce8d3a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.43fd7a5c.css",
-    "static/js/main.af1ccbfc.js"
+    "static/css/main.d050ca1f.css",
+    "static/js/main.fce8d3a4.js"
   ]
 }
